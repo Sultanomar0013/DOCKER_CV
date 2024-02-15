@@ -1,0 +1,18 @@
+.experience{
+    background: #2b323c;
+    color: rgb(255, 255, 255);
+}
+
+.exptitle{
+    display: flex;
+    justify-content: center;
+}
+
+.expdivpart{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.expSec{
+    width:20rem;
+}

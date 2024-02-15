@@ -1,0 +1,35 @@
+.aboutmeSection{
+    width:100%;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    background: #2b323c;
+    color: #fff;
+}
+
+.tiltcard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.aboutmediv{
+    display: flex;
+    width: 20rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.aboutmepara{
+    text-align: justify;
+}
+.Cobjectivediv{
+    display: flex;
+    width: 20rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cobjectpara{
+    text-align: justify;
+}

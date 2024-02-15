@@ -1,0 +1,65 @@
+/* Home Section*/
+.textdiv {
+    width: 100%;
+    height: 30vh;
+    background: #2b323c;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+
+
+}
+.abouttiltdiv{
+    width: 100%;
+}
+
+.content .homeintro {
+    margin-left: 15%;
+}
+
+.text-3d-shadow {
+    text-shadow: 15px 15px 8px rgb(0, 0, 0), 15px 15px 8px rgb(0, 0, 0), 15px 15px 8px rgb(0, 0, 0);
+    /* Additional styles can be added here */
+}
+
+.content {
+    margin-top: 5%;
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.imgdiv {
+    height: 80%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-image {
+    margin-top: 10%;
+    height: 60%;
+    width: auto;
+    border: 1px solid black;
+    border-radius: 150px;
+    box-shadow: 15px 15px 30px rgb(0, 0, 0), 15px 15px 30px rgb(0, 0, 0), 15px 15px 30px rgb(0, 0, 0);
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+
+
+
+
+
+
+
+@media only screen and (max-width: 750px) {
+  
+
+
+}

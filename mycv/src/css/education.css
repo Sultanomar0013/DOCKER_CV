@@ -1,0 +1,25 @@
+.edusection{
+    height: auto;
+    background: #2b323c;
+    color: #fff;
+}
+.edumaindiv{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+}
+.subedudiv{
+    width: 15rem;
+    height:16rem;
+    background: #64686e; 
+    color: white;
+    font-weight:bold;
+}
+
+@media only screen and (max-width: 750px) {
+    .subedudiv{
+        width:10rem
+    }
+}

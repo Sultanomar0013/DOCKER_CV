@@ -1,0 +1,91 @@
+.skillsection{
+    background: #2b323c;
+    color: #fff;
+    
+}
+.skilltitle{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.skillmaindiv{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+.subdiv{
+    width: 10rem;
+    height: 7rem;
+   
+}
+
+.skilltitleall{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 120px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top:6px;
+    margin-left: 6px;
+    width: 5rem;
+    -webkit-border-radius: 120px;
+    -moz-border-radius: 120px;
+    -ms-border-radius: 120px;
+    -o-border-radius: 120px;
+}
+.skilltitleall1{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 120px;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top:6px;
+    margin-left: 6px;
+    width: 8rem;
+    -webkit-border-radius: 120px;
+    -moz-border-radius: 120px;
+    -ms-border-radius: 120px;
+    -o-border-radius: 120px;
+}
+.subskilltitle1div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.subskilltitle1{
+    display: flex;
+    justify-content: center;
+    border:1px solid black;
+    border-radius: 120px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top:6px;
+    margin-left: 6px;
+    width: 4rem;
+    -webkit-border-radius: 120px;
+    -moz-border-radius: 120px;
+    -ms-border-radius: 120px;
+    -o-border-radius: 120px;
+}
+
+.subskilltitle2{
+    display: flex;
+    justify-content: center;
+    border:1px solid black;
+    border-radius: 120px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top:6px;
+    margin-left: 6px;
+    width: 5rem;
+    -webkit-border-radius: 120px;
+    -moz-border-radius: 120px;
+    -ms-border-radius: 120px;
+    -o-border-radius: 120px;
+}

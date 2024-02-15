@@ -1,0 +1,24 @@
+.contactSection{
+    background: #64686e;
+}
+.contactthreeimg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.contactImg{
+    width: 2rem;
+}
+
+.leetdiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+
+.contactImg1{
+    width:4rem;
+}

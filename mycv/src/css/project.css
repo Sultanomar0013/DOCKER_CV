@@ -1,0 +1,28 @@
+.projectsection{
+    background-color: #2b323c;
+    color: white;
+
+}
+.projectTitle{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+.projectCarsoulDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+.projectCarousel{
+    width:40%;
+    
+}
+
+@media only screen and (max-width: 750px) {
+    .projectCarousel{
+        width: 100%;
+    }
+}
